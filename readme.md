@@ -3,7 +3,3 @@
 		<img src="https://github.com/jaredallard/jaredallard/raw/master/info.svg?sanitize=true">
 	</a>
 </div>
-
-<spoiler>
-<a rel="me" href="https://donbongo.com/@jaredallard">Mastodon</a>
-</spolier>
