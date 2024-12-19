@@ -1,0 +1,11 @@
+// Renovate configuration used in my projects.
+{
+	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"extends": [
+		"config:recommended"
+	],
+	"postUpdateOptions": [
+		"gomodUpdateImportPaths",
+		"gomodTidy"
+	]
+}
